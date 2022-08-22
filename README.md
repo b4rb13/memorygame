@@ -1,8 +1,8 @@
 # Memory Game Project
 
-[![MemoryGame last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jdmedlock/memorygame)
+[![MemoryGame last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/b4rb13/memorygame)
 <br/>
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/jdmedlock/memorygame/)
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/b4rb13/memorygame/)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Javascript section of the [Udacity Front-End Web Developer Nanodegree Program](h
 purpose of this assignment is to demonstrate mastery of the core web
 development skills - HTML, CSS, and JavaScript.
 
-You can play the game here --> [Memory Game](https://jdmedlock.github.io/memorygame/)
+You can play the game here --> [Memory Game](https://b4rb13.github.io/memorygame/)
 
 ## How to Play
 
@@ -77,16 +77,16 @@ tag at the bottom of the `<body>` section of the source page.
 
 ## Change Log
 
-For more information see [Change Log](https://github.com/jdmedlock/memorygame/blob/development/CHANGELOG.md)
+For more information see [Change Log](https://github.com/b4rb13/memorygame/blob/development/CHANGELOG.md)
 
 ## Contributing
 
-See [Contributing](https://github.com/jdmedlock/memorygame/blob/development/CONTRIBUTING.md)
-and our [Collaborator Guide](https://github.com/jdmedlock/memorygame/blob/development/COLLABORATOR_GUIDE.md).
+See [Contributing](https://github.com/b4rb13/memorygame/blob/development/CONTRIBUTING.md)
+and our [Collaborator Guide](https://github.com/b4rb13/memorygame/blob/development/COLLABORATOR_GUIDE.md).
 
 ## Authors
 
-Developers on this project can be found on the [Contributors](https://github.com/jdmedlock/memorygame/graphs/contributors) page of this repo.
+Developers on this project can be found on the [Contributors](https://github.com/b4rb13/memorygame/graphs/contributors) page of this repo.
 
 ## License
 
